@@ -5,8 +5,4 @@
 > > Software Engineering Apprentice @ Google.
 > > 
 > > Happy to chat about anything - seriously I don't bite!  
-
-[![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
-
-![View Counter](https://komarev.com/ghpvc/?username=pixeljammed&style=pixel&base=420&label=views)
  
