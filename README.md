@@ -1,16 +1,12 @@
-## Hi there 👋
+> [!IMPORTANT]  
+> ## www.milotek.dev
+> > [projects](https://milotek.dev#projects) | [work](https://linkedin.com/in/goated) | [cv](https://milotek.dev#cv) | [games](https://milotek.dev#games) | [artwork](https://milotek.dev#arts)
+> >
+> > Software Engineering Apprentice @ Google.
+> > 
+> > Happy to chat about anything - seriously I don't bite!  
 
-<!--
-**benjaminPhillip/benjaminPhillip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Contributions Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://milotek.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![View Counter](https://komarev.com/ghpvc/?username=pixeljammed&style=pixel&base=420&label=views)
+ 
